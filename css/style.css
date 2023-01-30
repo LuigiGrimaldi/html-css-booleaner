@@ -1,0 +1,25 @@
+#contenitore{
+    padding-left: 10%;
+    padding-right: 30%;
+}
+
+#back_title{
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-color: blueviolet;
+    height: 100px;
+    
+
+}
+
+#img_title{
+    width: 150px;
+    padding-left: 120px;
+    padding-top: 50px;
+}
+
+#img_tim{
+    text-align: center;
+    padding-right: 68px;
+}
+
