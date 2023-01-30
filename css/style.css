@@ -40,4 +40,28 @@
     background-color: yellow;
 }
 
+.head_row{
+    color: white;
+    background-color: #4ea0ff;
+}
+
+.right{
+    display: inline-block;
+    width: 25%;
+    color:black;
+  }
+
+.central{
+    display: inline-block;
+    width: 25%;
+    color: black;
+  }
+
+.left{
+    display: inline-block;
+    width: 25%;
+    color: black;
+  }
+
+
 
