@@ -1,25 +1,43 @@
-#contenitore{
-    padding-left: 10%;
-    padding-right: 30%;
+.contenitore{
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
-#back_title{
+.bg_logo{
     background-image: url(../img/pattern.png);
     background-size: contain;
-    background-color: blueviolet;
-    height: 100px;
-    
-
+    background-color: #4ea0ff;
+    margin: 0;
 }
 
-#img_title{
+.logo{
     width: 150px;
-    padding-left: 120px;
-    padding-top: 50px;
+    margin-left: 10%;
+    margin-top: 25px;
 }
 
-#img_tim{
-    text-align: center;
-    padding-right: 68px;
+.main_img{
+    margin-left: 10%;
 }
+
+.description_img{
+    margin-left: 10%;
+}
+
+#name_writer{
+    color: #3cb4e8;
+}
+
+.info{
+    color: #8a8a8a;
+}
+
+.description_img{
+    font-size: 10px;
+}
+
+.highlighted{
+    background-color: yellow;
+}
+
 
